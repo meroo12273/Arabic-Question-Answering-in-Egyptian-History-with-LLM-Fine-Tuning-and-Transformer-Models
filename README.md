@@ -1,1 +1,4 @@
 # Arabic-Question-Answering-in-Egyptian-History-with-LLM-Fine-Tuning-and-Transformer-Models
+
+Question Answering (QA) is a subfield of Natural Language Processing (NLP) that focuses on developing systems capable of automatically answering questions posed by humans in natural language. Unlike traditional search engines that retrieve relevant documents, QA systems directly generate concise and accurate answers to user queries. A QA system typically consists of three main modules: question analysis, passage retrieval, and answer extraction. The development of Arabic QA systems faces unique challenges due to the complexities of the Arabic language and the limited resources available for research. Arabic Question Answering (QAS) encounters linguistic complexities stemming from Arabic’s rich morphology and intricate syntax.
+
